@@ -14,3 +14,7 @@ __pycache__/
 
 # Node
 node_modules/
+
+# Storage files
+backend/storage/*
+!backend/storage/.gitkeep
